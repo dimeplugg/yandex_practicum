@@ -1,2 +1,2 @@
 # yandex_practicum
-test_repo
+Тестовый репозиторий для работы с GitHub
